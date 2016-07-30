@@ -1,7 +1,7 @@
 #NATIONAL ASSEMBLY BUILDING of BANGLADESH
 ![banner](banner.jpg)
 ---
-1. [Model LAR](https://github.com/marteresagh/Project-2016/blob/master/462095/README.md#model-lar)
+1. [Model LAR](#model-lar)
   1. [Minister's lounge](https://github.com/marteresagh/Project-2016/blob/master/462095/README.md#ministers-lounge)
   2. [Office](https://github.com/marteresagh/Project-2016/blob/master/462095/README.md#office)
   3. [Prayer hall](https://github.com/marteresagh/Project-2016/blob/master/462095/README.md#prayer-hall)
