@@ -12,7 +12,7 @@
 
 #Model LAR
 ##Minister's lounge
-<img src="alloggi_pianta.jpg" width=400/>
+<img src="alloggi pianta.jpg" width=450/>
 <img src="alloggi top.jpg" width=450/> <img src="alloggi front.jpg" width=400/>
 ##Office
 <img src="uff out.jpg" width=400/> <img src="uff top.jpg" width=450/> 
