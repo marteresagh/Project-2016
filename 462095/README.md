@@ -12,7 +12,8 @@
 
 #Model LAR
 ##Minister's lounge
-![alloggi](alloggi_finale.svg)
+![alloggi front](alloggi front.jpg)
+![alloggi top](alloggi top.jpg)
 ##Office
 ##Prayer hall
 ##Dinning and recreation
