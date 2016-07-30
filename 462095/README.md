@@ -22,6 +22,6 @@
 ##Entrance hall
 <img src="ingr nord out.jpg" width=400/> <img src="ingr nord top.jpg" width=400/>
 ##Central area
-<img src="centro top.jpg" width=400/>
+<img src="centro top.jpg" width=400/>        
 <img src="centro est.jpg" width=400/> <img src="centro sud.jpg" width=400/>
 #Texture & Furniture
