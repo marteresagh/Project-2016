@@ -20,7 +20,7 @@
 ##Prayer hall
 <img src="preg front.jpg" width=450/> <img src="preg top.jpg" width=400/>
 ##Dinning and recreation
-<img src="mensa finale.jpg" width=400/> <img src="facciata_mensa.jpg" width=400/>
+<img src="mensa_pianta.jpg" width=400/> <img src="facciata_mensa.jpg" width=400/>
 <img src="mensa out.jpg" width=400/> <img src="mensa top.jpg" width=450/>
 ##Entrance hall
 <img src="nord_pav3.jpg" width=400/>
