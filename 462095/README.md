@@ -12,7 +12,7 @@
 
 #Model LAR
 ##Minister's lounge
-![]
+![alloggi]()
 ##Office
 ##Prayer hall
 ##Dinning and recreation
