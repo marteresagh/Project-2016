@@ -14,6 +14,7 @@
 ##Minister's lounge
 <img src="alloggi top.jpg" width=450/> <img src="alloggi front.jpg" width=400/>
 ##Office
+<img src="uff top.jpg" width=450/> <img src="uff out.jpg" width=400/>
 ##Prayer hall
 ##Dinning and recreation
 ##Entrance hall
