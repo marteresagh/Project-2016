@@ -15,7 +15,7 @@
 <img src="alloggi pianta.jpg" width=450/>
 <img src="alloggi top.jpg" width=450/> <img src="alloggi front.jpg" width=400/>
 ##Office
-<img src="ufficio pianta.jpg" width=400/>
+<img src="ufficio pianta.jpg" width=500/>   
 <img src="uff out.jpg" width=400/> <img src="uff top.jpg" width=450/> 
 ##Prayer hall
 <img src="preg front.jpg" width=450/> <img src="preg top.jpg" width=400/>
