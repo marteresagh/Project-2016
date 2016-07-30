@@ -9,9 +9,10 @@
   5. [Entrance hall](#entrance-hall)
   6. [Central area](#central-area)
 2. [Texture & Furniture](#texture--furniture)
-  
+---
 #Model LAR
 ##Minister's lounge
+![]
 ##Office
 ##Prayer hall
 ##Dinning and recreation
