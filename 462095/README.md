@@ -18,6 +18,10 @@
 ##Prayer hall
 <img src="preg front.jpg" width=400/> <img src="preg top.jpg" width=400/>
 ##Dinning and recreation
+<img src="mensa out.jpg" width=400/> <img src="mensa top.jpg" width=400/>
 ##Entrance hall
+<img src="ingr nord out.jpg" width=400/> <img src="ingr nord top.jpg" width=400/>
 ##Central area
+<img src="centro est.jpg" width=400/> <img src="centro sud.jpg" width=400/>
+<img src="centro top.jpg" width=400/>
 #Texture & Furniture
