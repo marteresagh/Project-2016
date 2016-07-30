@@ -16,12 +16,12 @@
 ##Office
 <img src="uff out.jpg" width=400/> <img src="uff top.jpg" width=450/> 
 ##Prayer hall
-<img src="preg front.jpg" width=400/> <img src="preg top.jpg" width=400/>
+<img src="preg front.jpg" width=450/> <img src="preg top.jpg" width=400/>
 ##Dinning and recreation
-<img src="mensa out.jpg" width=400/> <img src="mensa top.jpg" width=400/>
+<img src="mensa out.jpg" width=400/> <img src="mensa top.jpg" width=450/>
 ##Entrance hall
 <img src="ingr nord out.jpg" width=400/> <img src="ingr nord top.jpg" width=400/>
 ##Central area
-<img src="centro est.jpg" width=400/> <img src="centro sud.jpg" width=400/>
 <img src="centro top.jpg" width=400/>
+<img src="centro est.jpg" width=400/> <img src="centro sud.jpg" width=400/>
 #Texture & Furniture
