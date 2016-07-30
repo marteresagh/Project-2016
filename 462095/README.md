@@ -12,18 +12,21 @@
 
 #Model LAR
 ##Minister's lounge
-<img src="alloggi pianta.jpg" width=450/>
+<img src="lounge_pianta.jpg" width=450/>
 <img src="alloggi top.jpg" width=450/> <img src="alloggi front.jpg" width=400/>
 ##Office
-<img src="ufficio pianta.jpg" width=500/>   
+<img src="ufficio_pianta.jpg" width=500/>   
 <img src="uff out.jpg" width=400/> <img src="uff top.jpg" width=450/> 
 ##Prayer hall
 <img src="preg front.jpg" width=450/> <img src="preg top.jpg" width=400/>
 ##Dinning and recreation
+<img src="mensa_finale.jpg" width=400/> <img src="facciata_mensa.jpg" width=400/>
 <img src="mensa out.jpg" width=400/> <img src="mensa top.jpg" width=450/>
 ##Entrance hall
+<img src="nord_pav3.jpg" width=400/>
 <img src="ingr nord out.jpg" width=400/> <img src="ingr nord top.jpg" width=400/>
 ##Central area
+<img src="centrale_pianta.jpg" width=400/> <img src="facciata_uff.jpg" width=400/> <img src="lampadario.jpg" width=400/>
 <img src="centro top.jpg" width=400/>        
 <img src="centro est.jpg" width=400/> <img src="centro sud.jpg" width=400/>
 #Texture & Furniture
