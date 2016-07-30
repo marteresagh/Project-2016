@@ -12,8 +12,7 @@
 
 #Model LAR
 ##Minister's lounge
-![alloggi front](alloggi front.jpg)
-<img src="alloggi top.jpg" width=800/>
+<img src="alloggi front.jpg" width=400/> <img src="alloggi top.jpg" width=500/>
 ##Office
 ##Prayer hall
 ##Dinning and recreation
