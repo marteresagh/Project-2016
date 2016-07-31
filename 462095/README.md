@@ -33,6 +33,7 @@ In inglese--> Questo progetto consiste nel riprodurre la sede del parlamento del
 <img src="centrale_pianta.jpg" width=400/> <img src="facciata_uff.jpg" width=400/> <img src="lampadario.jpg" width=400/>
 <img src="centro top.jpg" width=400/>        
 <img src="centro est.jpg" width=400/> <img src="centro sud.jpg" width=400/>
+<img src="ringhiera corte.jpg" width=400/>
 ___
 #2.Complete
 <img src="completo est.jpg" width=400/>
