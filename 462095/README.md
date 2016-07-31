@@ -31,11 +31,11 @@
 <img src="centro est.jpg" width=400/> <img src="centro sud.jpg" width=400/>
 #Texture & Furniture
 <img src="alloggi.jpg" width=400/>
-<img src="alloggi2.jpg" width=400/>
-<img src="balconi.jpg" width=400/>
-<img src="camera assemblea2.jpg" width=400/>
-<img src="camera assemblea3.jpg" width=400/>
 <img src="camera assemblea4.jpg" width=400/>
-<img src="camera assemblea5.jpg" width=400/>
 <img src="camera assemblea7.jpg" width=400/>
+<img src="corridoio.jpg" width=400/>
+<img src="corridoio3.jpg" width=400/>
+<img src="corridoio4.jpg" width=400/>
+<img src="corridoio5.jpg" width=400/>
+
 
