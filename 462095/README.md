@@ -8,10 +8,11 @@
   4. [Dinning and recreation](#dinning-and-recreation)
   5. [Entrance hall](#entrance-hall)
   6. [Central area](#central-area)
-  7. [Complete](#complete)
-2. [Texture & Furniture](#texture--furniture)
+2. [Complete](#complete)
+3. [Texture & Furniture](#texture--furniture)
 
 #Model LAR
+___
 ##Minister's lounge
 <img src="lounge_pianta.jpg" width=450/>
 <img src="alloggi top.jpg" width=450/> <img src="alloggi front.jpg" width=400/>
@@ -31,11 +32,13 @@
 <img src="centro top.jpg" width=400/>        
 <img src="centro est.jpg" width=400/> <img src="centro sud.jpg" width=400/>
 #Complete
+___
 <img src="completo est.jpg" width=400/>
 <img src="completo out.jpg" width=400/>
 <img src="completo ovest.jpg" width=400/>
 <img src="completo top.jpg" width=400/>
 #Texture & Furniture
+___
 <img src="alloggi.jpg" width=400/>
 <img src="camera assemblea4.jpg" width=400/>
 <img src="camera assemblea7.jpg" width=400/>
