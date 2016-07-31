@@ -34,8 +34,12 @@
 <img src="camera assemblea4.jpg" width=400/>
 <img src="camera assemblea7.jpg" width=400/>
 <img src="corridoio.jpg" width=400/>
-<img src="corridoio3.jpg" width=400/>
 <img src="corridoio4.jpg" width=400/>
-<img src="corridoio5.jpg" width=400/>
+<img src="corte abluzione.jpg" width=400/>
+<img src="corte abluzione2.jpg" width=400/>
+<img src="corte abluzione3.jpg" width=400/>
+<img src="corte abluzione4.jpg" width=400/>
+<img src="corte abluzione5.jpg" width=400/>
+<img src="corte abluzione6.jpg" width=400/>
 
 
