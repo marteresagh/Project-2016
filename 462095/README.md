@@ -36,10 +36,10 @@
 <img src="corridoio.jpg" width=400/>
 <img src="corridoio4.jpg" width=400/>
 <img src="corte abluzione.jpg" width=400/>
-<img src="corte abluzione2.jpg" width=400/>
-<img src="corte abluzione3.jpg" width=400/>
-<img src="corte abluzione4.jpg" width=400/>
 <img src="corte abluzione5.jpg" width=400/>
-<img src="corte abluzione6.jpg" width=400/>
+<img src="sala della preghiera.jpg" width=400/>
+<img src="sala della preghiera2.jpg" width=400/>
+<img src="sala della preghiera3.jpg" width=400/>
+<img src="tetto2.jpg" width=400/>
 
 
