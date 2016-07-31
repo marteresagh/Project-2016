@@ -2,15 +2,15 @@
 ![banner](banner.jpg)
 ---
 #Contents
-1. [Model LAR](#model-lar)
+1. [Model LAR](#1model-lar)
   1. [Minister's lounge](#ministers-lounge)
   2. [Office](#office)
   3. [Prayer hall](#prayer-hall)
   4. [Dinning and recreation](#dinning-and-recreation)
   5. [Entrance hall](#entrance-hall)
   6. [Central area](#central-area)
-2. [Complete](#complete)
-3. [Texture & Furniture](#texture--furniture)
+2. [Complete](#2complete)
+3. [Texture & Furniture](#3texture--furniture)
 
 ___
 #1.Model LAR
