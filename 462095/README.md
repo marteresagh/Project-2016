@@ -30,3 +30,5 @@
 <img src="centro top.jpg" width=400/>        
 <img src="centro est.jpg" width=400/> <img src="centro sud.jpg" width=400/>
 #Texture & Furniture
+<img src="centrale_pianta.jpg" width=400/>
+<img src="centrale_pianta.jpg" width=400/>
