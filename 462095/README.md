@@ -8,6 +8,7 @@
   4. [Dinning and recreation](#dinning-and-recreation)
   5. [Entrance hall](#entrance-hall)
   6. [Central area](#central-area)
+  7. [Complete](#complete)
 2. [Texture & Furniture](#texture--furniture)
 
 #Model LAR
@@ -29,6 +30,11 @@
 <img src="centrale_pianta.jpg" width=400/> <img src="facciata_uff.jpg" width=400/> <img src="lampadario.jpg" width=400/>
 <img src="centro top.jpg" width=400/>        
 <img src="centro est.jpg" width=400/> <img src="centro sud.jpg" width=400/>
+#Complete
+<img src="completo est.jpg" width=400/>
+<img src="completo out.jpg" width=400/>
+<img src="completo ovest.jpg" width=400/>
+<img src="completo top.jpg" width=400/>
 #Texture & Furniture
 <img src="alloggi.jpg" width=400/>
 <img src="camera assemblea4.jpg" width=400/>
