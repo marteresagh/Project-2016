@@ -14,6 +14,7 @@
 
 ___
 #1.Model LAR
+Questo progetto consiste nel riprodurre la sede del parlamento del bangladesh dell' architetto  Louis Kahn, bla bla 
 ##Minister's lounge
 <img src="lounge_pianta.jpg" width=450/>
 <img src="alloggi top.jpg" width=450/> <img src="alloggi front.jpg" width=400/>
