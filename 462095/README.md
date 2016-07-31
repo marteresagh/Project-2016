@@ -11,8 +11,8 @@
 2. [Complete](#complete)
 3. [Texture & Furniture](#texture--furniture)
 
-#Model LAR
 ___
+#Model LAR
 ##Minister's lounge
 <img src="lounge_pianta.jpg" width=450/>
 <img src="alloggi top.jpg" width=450/> <img src="alloggi front.jpg" width=400/>
@@ -31,14 +31,14 @@ ___
 <img src="centrale_pianta.jpg" width=400/> <img src="facciata_uff.jpg" width=400/> <img src="lampadario.jpg" width=400/>
 <img src="centro top.jpg" width=400/>        
 <img src="centro est.jpg" width=400/> <img src="centro sud.jpg" width=400/>
-#Complete
 ___
+#Complete
 <img src="completo est.jpg" width=400/>
 <img src="completo out.jpg" width=400/>
 <img src="completo ovest.jpg" width=400/>
 <img src="completo top.jpg" width=400/>
-#Texture & Furniture
 ___
+#Texture & Furniture
 <img src="alloggi.jpg" width=400/>
 <img src="camera assemblea4.jpg" width=400/>
 <img src="camera assemblea7.jpg" width=400/>
