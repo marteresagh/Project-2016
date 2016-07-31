@@ -38,7 +38,6 @@
 <img src="corte abluzione.jpg" width=400/>
 <img src="corte abluzione5.jpg" width=400/>
 <img src="sala della preghiera.jpg" width=400/>
-<img src="sala della preghiera2.jpg" width=400/>
 <img src="sala della preghiera3.jpg" width=400/>
 <img src="tetto2.jpg" width=400/>
 
