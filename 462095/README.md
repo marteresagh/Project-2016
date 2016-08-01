@@ -43,11 +43,12 @@ The plan is simply and the sides have holes of geometric shapes: triangles, rect
 ##Prayer hall
 For this building I have not used the design of the floor plan, but I created the cylindrical columns and the curved walls with specific functions.
 
-<img src="preg front.jpg" width=600/> 
+<img src="preg top.jpg" width=600/> 
 
 Then I created the holes for windows and doors, and added grates, floors and other details.
 
-<img src="preg top.jpg" width=400/>
+<img src="preg front.jpg" width=500/> 
+
 ##Dinning and recreation
 <img src="mensa_pianta.jpg" width=400/> <img src="facciata_mensa.jpg" width=400/>
 <img src="mensa out.jpg" width=400/> <img src="mensa top.jpg" width=450/>
