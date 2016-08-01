@@ -14,10 +14,16 @@
 
 ***
 #1.Overview
-<img src="completo est.jpg" width=400/>
+
 <img src="completo out.jpg" width=400/>
-<img src="completo ovest.jpg" width=400/>
+
 <img src="completo top.jpg" width=400/>
+
+View east and west.
+
+<img src="completo est.jpg" width=400/>
+<img src="completo ovest.jpg" width=400/>
+
 ***
 
 #2.Model LAR
