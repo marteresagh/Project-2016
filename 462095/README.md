@@ -57,14 +57,15 @@ The dinning and recreation building is situated in the east side.
 To model this, I extruded walls that interested me from the plan skeleton.
 
 <img src="mensa_pianta.jpg" width=300/> 
-<img src="mensa top.jpg" width=500/>
+<img src="mensa top.jpg" width=550/>
 
 For front side I drew the wall with geometrical holes.  
 
+<img src="facciata_mensa.jpg" width=400/>
+
 Then I added the windows on the side walls, building a pattern, consisting of beam and grates, to be repeated. 
 
-<img src="facciata_mensa.jpg" width=400/>
-<img src="mensa out.jpg" width=400/> 
+<img src="mensa out.jpg" width=450/> 
 
 ##Entrance hall
 <img src="nord_pav3.jpg" width=400/>
