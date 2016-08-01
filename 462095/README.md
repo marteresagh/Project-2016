@@ -15,14 +15,17 @@
 ***
 #1.Overview
 
-<img src="completo out.jpg" width=400/>
+<img src="completo out.jpg" width=600/>
 
 <img src="completo top.jpg" width=400/>
 
-View east and west.
+East view:
 
-<img src="completo est.jpg" width=400/>
-<img src="completo ovest.jpg" width=400/>
+<img src="completo est.jpg" width=600/>
+
+West view:
+
+<img src="completo ovest.jpg" width=600/>
 
 ***
 
