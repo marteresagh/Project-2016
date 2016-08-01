@@ -2,18 +2,25 @@
 ![banner](banner.jpg)
 ---
 #Contents
-1. [Model LAR](#1model-lar)
+1. [Overview](#1overview)
+2. [Model LAR](#2model-lar)
   1. [Minister's lounge](#ministers-lounge)
   2. [Office](#office)
   3. [Prayer hall](#prayer-hall)
   4. [Dinning and recreation](#dinning-and-recreation)
   5. [Entrance hall](#entrance-hall)
   6. [Central area](#central-area)
-2. [Complete](#2complete)
 3. [Texture & Furniture](#3texture--furniture)
 
 ***
-#1.Model LAR
+#1.Overview
+<img src="completo est.jpg" width=400/>
+<img src="completo out.jpg" width=400/>
+<img src="completo ovest.jpg" width=400/>
+<img src="completo top.jpg" width=400/>
+***
+
+#2.Model LAR
 This project consists in reproducing graphically the house of the Parliament of Bangladesh: **National Assembly Building**, designed by **Louis Kahn**. 
 
 The architect’s key design philosophy was to represent Bangladeshi culture and heritage, while at the same time optimizing the use of space. The exterior of the building is striking in its simplicity, with huge walls and large openings of regular geometric shapes.
@@ -75,12 +82,7 @@ Then I added the windows on the side walls, building a pattern, consisting of be
 <img src="centro est.jpg" width=400/> <img src="centro sud.jpg" width=400/>
 <img src="ringhiera corte.jpg" width=400/>
 ***
-#2.Complete
-<img src="completo est.jpg" width=400/>
-<img src="completo out.jpg" width=400/>
-<img src="completo ovest.jpg" width=400/>
-<img src="completo top.jpg" width=400/>
-***
+
 #3.Texture & Furniture
 <img src="alloggi.jpg" width=400/>
 <img src="camera assemblea4.jpg" width=400/>
