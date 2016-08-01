@@ -82,8 +82,14 @@ Then I added the windows on the side walls, building a pattern, consisting of be
 <img src="mensa out.jpg" width=400/> 
 
 ##Entrance hall
-<img src="nord_pav3.jpg" width=400/>
-<img src="ingr nord out.jpg" width=400/> <img src="ingr nord top.jpg" width=400/>
+In this case the basic plan is very simple. 
+
+<img src="nord_pav3.jpg" width=400/>  <img src="ingr nord top.jpg" width=400/>
+
+Then I added perforated oblique walls, floors and balconies. I created the holes for windows on the sides and grids.
+
+<img src="ingr nord out.jpg" width=400/>
+
 ##Central area
 <img src="centrale_pianta.jpg" width=400/> <img src="facciata_uff.jpg" width=400/> <img src="lampadario.jpg" width=400/>
 <img src="centro top.jpg" width=400/>        
