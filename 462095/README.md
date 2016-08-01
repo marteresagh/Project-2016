@@ -18,12 +18,12 @@ This project consists in reproducing graphically the house of the Parliament of 
 
 The architect’s key design philosophy was to represent Bangladeshi culture and heritage, while at the same time optimizing the use of space. The exterior of the building is striking in its simplicity, with huge walls and large openings of regular geometric shapes.
 
-The building consists of nine individual blocks that I have recreated separately.
+The building consists of *nine individual blocks* that I have recreated separately.
 ##Minister's lounge
 
-This is the building that houses residences for the members of the Parliament. It is located on the west side.
+This is the building that houses *residences for the members of the Parliament*. It is located on the west side.
 
-To model this structure I created the skeleton of plan.
+To model this structure I designed the skeleton of plan.
 
 <img src="lounge_pianta.jpg" width=500/>
 
