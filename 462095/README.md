@@ -34,11 +34,12 @@ I extruded the walls from the plant and added details like stairs, windows and f
 ##Office
 This is the building of the offices. It is repeated 4 times around the centrale area.
 
-<img src="ufficio_pianta.jpg" width=500/> 
+<img src="uff out.jpg" width=400/> <img src="uff top.jpg" width=450/>
 
 The plan is simply and the sides have holes of geometric shapes: triangles, rectangles and circles.
 
-<img src="uff out.jpg" width=400/> <img src="uff top.jpg" width=450/> 
+<img src="ufficio_pianta.jpg" width=500/> 
+ 
 ##Prayer hall
 <img src="preg front.jpg" width=450/> <img src="preg top.jpg" width=400/>
 ##Dinning and recreation
