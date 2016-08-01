@@ -14,7 +14,7 @@
 
 ___
 #1.Model LAR
-this project consists in reproducing la sede del parlamento del bangladesh dell' architetto  Louis Kahn ecc... 
+This project consists in reproducing graphically the house of the Parliament of Bangladesh: *National Assembly Building*, designed by *Louis Kahn*. 
 ##Minister's lounge
 <img src="lounge_pianta.jpg" width=450/>
 <img src="alloggi top.jpg" width=450/> <img src="alloggi front.jpg" width=400/>
