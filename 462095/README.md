@@ -61,11 +61,10 @@ To model this, I extruded walls that interested me from the plan skeleton.
 
 For front side I drew the wall with geometrical holes, and I extruded the surface.  
 
-<img src="facciata_mensa.jpg" width=400/>
-
 Then I added the windows on the side walls, building a pattern, consisting of beam and grates, to be repeated. 
 
-<img src="mensa out.jpg" width=550/> 
+<img src="facciata_mensa.jpg" width=400/>
+<img src="mensa out.jpg" width=400/> 
 
 ##Entrance hall
 <img src="nord_pav3.jpg" width=400/>
