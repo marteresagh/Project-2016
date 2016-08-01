@@ -121,17 +121,18 @@ The **material** used for the entire structure is the **concrete**, coated with 
 <img src="alloggi.jpg" width=600/>
 
 ###Hallways:
-<img src="corridoio.jpg" width=400/>
-<img src="corridoio4.jpg" width=400/>
+<img src="corridoio4.jpg" width=600/>
+<img src="corridoio.jpg" width=300/>
 
-###Entrance and prayer hall:
+###Entrance to the prayer hall:
 <img src="corte abluzione.jpg" width=400/>
 <img src="corte abluzione5.jpg" width=400/>
+
+###Prayer hall:
 <img src="sala della preghiera.jpg" width=400/>
 <img src="sala della preghiera3.jpg" width=400/>
 
 ###Assembly chamber:
-
 <img src="camera assemblea4.jpg" width=500/>
 <img src="camera assemblea7.jpg" width=400/>
 
