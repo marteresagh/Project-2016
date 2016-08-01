@@ -18,11 +18,11 @@
 <img src="completo out.jpg" width=400/>
 <img src="completo top.jpg" width=400/>
 
-East view:
+###East view:
 
 <img src="completo est.jpg" width=800/>
 
-West view:
+###West view:
 
 <img src="completo ovest.jpg" width=800/>
 
@@ -47,7 +47,7 @@ I extruded the walls from the plant and added details like stairs, windows and f
 <img src="alloggi top.jpg" width=450/> <img src="alloggi front.jpg" width=400/>
 
 ##Office
-This is the building of the offices. It is repeated 4 times around the centrale area.
+This is the building of the offices. It is repeated four times around the centrale area.
 
 <img src="uff out.jpg" width=400/> <img src="uff top.jpg" width=450/>
 
