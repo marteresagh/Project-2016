@@ -98,6 +98,7 @@ Then I added perforated oblique walls, floors, balconies and gate. I created the
 The central area, octagonal in shape, is formed by the assembly chamber in the center and the hallways that surround it.
 I used the plant as a reference point to position the various walls.
 I created a pattern of walls and then repeating it in rotation I built the entire structure.
+
 <img src="centrale_pianta.jpg" width=400/> <img src="centro top.jpg" width=400/>        
 
 <img src="centro est.jpg" width=400/> <img src="centro sud.jpg" width=400/>
