@@ -21,9 +21,10 @@ The architect’s key design philosophy was to represent Bangladeshi culture and
 The building consists of nine individual blocks that I have recreated separately.
 ##Minister's lounge
 
-These are residences for the members of the Parliament. 
+This is the building that houses residences for the members of the Parliament. 
 
-To model this structure I first created the skeleton of plan.
+To model this structure I created the skeleton of plan.
+
 <img src="lounge_pianta.jpg" width=450/>
 <img src="alloggi top.jpg" width=450/> <img src="alloggi front.jpg" width=400/>
 ##Office
