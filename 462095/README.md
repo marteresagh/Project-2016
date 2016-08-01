@@ -128,12 +128,13 @@ The **material** used for the entire structure is the **concrete**, coated with 
 <img src="corte abluzione5.jpg" width=425/>
 
 ###Prayer hall:
-<img src="sala della preghiera.jpg" width=800/>
-<img src="sala della preghiera3.jpg" width=800/>
+<img src="sala della preghiera.jpg" width=700/>
+<img src="sala della preghiera3.jpg" width=700/>
 
 ###Assembly chamber:
 <img src="camera assemblea4.jpg" width=800/>
 <img src="camera assemblea7.jpg" width=800/>
 <img src="tetto2.jpg" width=800/>
 
-
+#Author
+###Maria Teresa Graziano
