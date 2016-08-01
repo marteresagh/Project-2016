@@ -82,17 +82,20 @@ Then I added the windows on the side walls, building a pattern, consisting of be
 <img src="mensa out.jpg" width=400/> 
 
 ##Entrance hall
+This building is the north entrance, overlooking the Presidential Plaza.
+
+<img src="ingr nord out.jpg" width=600/> 
+
 In this case the basic plan is very simple. 
 
 <img src="nord_pav3.jpg" width=400/>  <img src="ingr nord top.jpg" width=450/>
 
-Then I added perforated oblique walls, floors, balconies and gate. 
+Then I added perforated oblique walls, floors, balconies and gate. I created the holes for windows on the sides and grids.
 
-<img src="ingr nord inside.jpg" width=600/>
+<img src="ingr nord inside.jpg" width=700/>
 
-I created the holes for windows on the sides and grids.
 
-<img src="ingr nord out.jpg" width=400/> 
+
 ##Central area
 <img src="centrale_pianta.jpg" width=400/> <img src="facciata_uff.jpg" width=400/> <img src="lampadario.jpg" width=400/>
 <img src="centro top.jpg" width=400/>        
