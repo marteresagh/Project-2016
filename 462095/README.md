@@ -88,7 +88,7 @@ This building is the **north entrance**, overlooking the Presidential Plaza.
 
 In this case the basic plan is very simple. 
 
-<img src="nord_pav3.jpg" width=400/>  <img src="ingr nord top.jpg" width=450/>
+<img src="nord_pav3.jpg" width=400/>  <img src="ingr nord top.jpg" width=425/>
 
 Then I added **perforated oblique walls**, floors, balconies and gate. I created the holes for windows on the sides and grids.
 
@@ -107,7 +107,7 @@ For particular holes on the walls I drew the shape and then I extruded surface.
 <img src="facciata_uff.jpg" width=350/>
 <img src="centro est.jpg" width=500/> 
 
-For details like stairs and railings I used appropriate functions written by me.
+For details like **stairs** and **railings** I used appropriate functions written by me.
 
 <img src="ringhiera corte.jpg" width=425/> <img src="centro sud.jpg" width=425/>
 
