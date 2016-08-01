@@ -117,25 +117,23 @@ For details like **stairs** and **railings** I used appropriate functions writte
 The **material** used for the entire structure is the **concrete**, coated with white **marble** strips to mask the joints of the building. So I created the texture and I applied it to all the walls. I also rebuilt part of the furniture using simple geometries.
 
 ###Minister's lounge:
-
-<img src="alloggi.jpg" width=600/>
+<img src="alloggi.jpg" width=700/>
 
 ###Hallways:
-<img src="corridoio4.jpg" width=600/>
+<img src="corridoio4.jpg" width=500/>
 <img src="corridoio.jpg" width=300/>
 
 ###Entrance to the prayer hall:
-<img src="corte abluzione.jpg" width=400/>
-<img src="corte abluzione5.jpg" width=400/>
+<img src="corte abluzione.jpg" width=425/>
+<img src="corte abluzione5.jpg" width=425/>
 
 ###Prayer hall:
-<img src="sala della preghiera.jpg" width=400/>
-<img src="sala della preghiera3.jpg" width=400/>
+<img src="sala della preghiera.jpg" width=800/>
+<img src="sala della preghiera3.jpg" width=800/>
 
 ###Assembly chamber:
-<img src="camera assemblea4.jpg" width=500/>
-<img src="camera assemblea7.jpg" width=400/>
-
-<img src="tetto2.jpg" width=600/>
+<img src="camera assemblea4.jpg" width=800/>
+<img src="camera assemblea7.jpg" width=800/>
+<img src="tetto2.jpg" width=800/>
 
 
