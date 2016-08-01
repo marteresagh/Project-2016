@@ -32,7 +32,12 @@ I extruded the walls from the plant and added details like stairs, windows and f
 <img src="alloggi top.jpg" width=450/> <img src="alloggi front.jpg" width=400/>
 
 ##Office
-<img src="ufficio_pianta.jpg" width=500/>   
+This is the building of the offices. It is repeated 4 times around the centrale area.
+
+<img src="ufficio_pianta.jpg" width=500/> 
+
+The plan is simply and the sides have holes of geometric shapes: triangles, rectangles and circles.
+
 <img src="uff out.jpg" width=400/> <img src="uff top.jpg" width=450/> 
 ##Prayer hall
 <img src="preg front.jpg" width=450/> <img src="preg top.jpg" width=400/>
@@ -47,13 +52,13 @@ I extruded the walls from the plant and added details like stairs, windows and f
 <img src="centro top.jpg" width=400/>        
 <img src="centro est.jpg" width=400/> <img src="centro sud.jpg" width=400/>
 <img src="ringhiera corte.jpg" width=400/>
-___
+***
 #2.Complete
 <img src="completo est.jpg" width=400/>
 <img src="completo out.jpg" width=400/>
 <img src="completo ovest.jpg" width=400/>
 <img src="completo top.jpg" width=400/>
-___
+***
 #3.Texture & Furniture
 <img src="alloggi.jpg" width=400/>
 <img src="camera assemblea4.jpg" width=400/>
