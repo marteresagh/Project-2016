@@ -41,9 +41,11 @@ The plan is simply and the sides have holes of geometric shapes: triangles, rect
 <img src="ufficio_pianta.jpg" width=500/> 
  
 ##Prayer hall
-For this building I have not used the design of the floor plan, but I created the cylindrical columns and the curved walls with specific functions.
+This is the Prayer hall, located in the south side. It is rotated about six degrees with respect to the main building, to line the west wall with La Mecca.
 
-<img src="preg top.jpg" width=600/> 
+<img src="preg top.jpg" width=600/>
+
+For this building I have not used the design of the floor plan, but I created the cylindrical columns and the curved walls with specific functions.
 
 Then I created the holes for windows and doors, and added grates, floors and other details.
 
