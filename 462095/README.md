@@ -31,7 +31,7 @@
 #2.Model LAR
 This project consists in reproducing graphically the house of the Parliament of Bangladesh: **National Assembly Building**, designed by **Louis Kahn**. 
 
-The architect’s key design philosophy was to represent Bangladeshi culture and heritage, while at the same time optimizing the use of space. The exterior of the building is striking in its simplicity, with huge walls and large openings of regular geometric shapes.
+The exterior of the building is striking in its simplicity, with huge walls and large openings of regular geometric shapes.
 
 The building consists of nine individual blocks that I have recreated separately.
 
