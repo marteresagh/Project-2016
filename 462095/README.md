@@ -52,16 +52,17 @@ Then I created the holes for windows and doors, and added grates, floors and oth
 <img src="preg front.jpg" width=500/> 
 
 ##Dinning and recreation
-The dinning and recreation building is situated in the east side. I extruded walls that interested me from the plan skeleton.
+The dinning and recreation building is situated in the east side. 
+
+To model this,I extruded walls that interested me from the plan skeleton.
 
 <img src="mensa_pianta.jpg" width=300/> 
-<img src="mensa top.jpg" width=450/>
+<img src="mensa top.jpg" width=500/>
 
-For front side I drew the geometric holes 
+For front side I drew the wall with geometrical holes.  
 
-<img src="facciata_mensa.jpg" width=400/>
-<img src="mensa out.jpg" width=400/> 
-
+<img src="facciata_mensa.jpg" width=300/>
+<img src="mensa out.jpg" width=500/> 
 
 ##Entrance hall
 <img src="nord_pav3.jpg" width=400/>
