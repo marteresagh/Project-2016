@@ -99,11 +99,15 @@ The central area, octagonal in shape, is formed by the assembly chamber in the c
 I used the plant as a reference point to position the various walls.
 I created a pattern of walls and then repeating it in rotation I built the entire structure.
 
-<img src="centrale_pianta.jpg" width=400/> <img src="centro top.jpg" width=400/>        
+<img src="centrale_pianta.jpg" width=400/> <img src="centro top.jpg" width=450/>        
 
-<img src="centro est.jpg" width=400/> <img src="centro sud.jpg" width=400/>
-<img src="ringhiera corte.jpg" width=400/>
- <img src="facciata_uff.jpg" width=400/>
+For particular holes on the walls I drew the shape and then I extruded surface.
+
+<img src="facciata_uff.jpg" width=400/>
+<img src="centro est.jpg" width=400/> 
+<img src="centro sud.jpg" width=600/>
+<img src="ringhiera corte.jpg" width=600/>
+
 ***
 
 #3.Texture & Furniture
