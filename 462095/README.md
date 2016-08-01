@@ -114,6 +114,8 @@ For details like **stairs** and **railings** I used appropriate functions writte
 ***
 
 #3.Texture & Furniture
+The material used for the entire structure is the **concrete**, coated with **white marble** strips to mask the joints of the building. So I created the texture.
+
 <img src="alloggi.jpg" width=400/>
 <img src="camera assemblea4.jpg" width=400/>
 <img src="camera assemblea7.jpg" width=400/>
