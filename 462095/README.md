@@ -109,7 +109,7 @@ For particular holes on the walls I drew the shape and then I extruded surface.
 
 For details like stairs and railings I used appropriate functions written by me.
 
-<img src="ringhiera corte.jpg" width=400/> <img src="centro sud.jpg" width=400/>
+<img src="ringhiera corte.jpg" width=425/> <img src="centro sud.jpg" width=425/>
 
 ***
 
