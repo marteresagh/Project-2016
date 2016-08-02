@@ -13,7 +13,7 @@
 3. [Texture & Furniture](#3texture--furniture)
 
 ***
-#1.Overview
+#1. Overview
 
 <img src="completo out.jpg" width=400/>
 <img src="completo top.jpg" width=400/>
@@ -28,7 +28,7 @@
 
 ***
 
-#2.3D modeling
+#2. 3D modeling
 This project consists in reproducing graphically the house of the Parliament of Bangladesh: **National Assembly Building**, designed by **Louis Kahn**. 
 
 The exterior of the building is striking in its simplicity, with huge walls and large openings of regular geometric shapes.
@@ -113,7 +113,7 @@ For details like **stairs** and **railings** I used appropriate functions writte
 
 ***
 
-#3.Texture & Furniture
+#3. Texture & Furniture
 The **material** used for the entire structure is the **concrete**, coated with white **marble** strips to mask the joints of the building. So I created the texture and I applied it to all the walls. I also rebuilt part of the furniture using simple geometries.
 
 ###Minister's lounge:
