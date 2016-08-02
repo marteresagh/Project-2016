@@ -114,7 +114,7 @@ For details like **stairs** and **railings** I used appropriate functions writte
 ***
 
 #3. Texture & Furniture
-The **material** used for the entire structure is the **concrete**, coated with white **marble** strips to mask the joints of the building. So I created the texture and I applied it to all the walls. I also rebuilt part of the furniture using simple geometries.
+The **material** used for the entire structure is **concrete**, coated with white **marble** strips to mask the joints of the building. So I created the texture and I applied it to all the walls. I also rebuilt part of the furniture using simple geometries.
 
 ###Minister's lounge:
 <img src="alloggi.jpg" width=700/>
