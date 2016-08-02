@@ -3,7 +3,7 @@
 ---
 #Contents
 1. [Overview](#1overview)
-2. [Model LAR](#2model-lar)
+2. [3D modeling](#3d-modeling)
   1. [Minister's lounge](#ministers-lounge)
   2. [Office](#office)
   3. [Prayer hall](#prayer-hall)
@@ -28,7 +28,7 @@
 
 ***
 
-#2.Model LAR
+#2.3D modeling
 This project consists in reproducing graphically the house of the Parliament of Bangladesh: **National Assembly Building**, designed by **Louis Kahn**. 
 
 The exterior of the building is striking in its simplicity, with huge walls and large openings of regular geometric shapes.
