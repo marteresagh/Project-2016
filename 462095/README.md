@@ -2,9 +2,9 @@
 ![banner](banner.jpg)
 ---
 # Contents
-1. [Overview](# 1overview)
-2. [3D modeling](# 3d-modeling)
-  1. [Minister's lounge](# ministers-lounge)
+1. [Overview](#1overview)
+2. [3D modeling](#3d-modeling)
+  1. [Minister's lounge](#ministers-lounge)
   2. [Office](#office)
   3. [Prayer hall](#prayer-hall)
   4. [Dinning and recreation](#dinning-and-recreation)
