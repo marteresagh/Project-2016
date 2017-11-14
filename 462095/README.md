@@ -18,11 +18,11 @@
 <img src="completo out.jpg" width=400/>
 <img src="completo top.jpg" width=400/>
 
-###East view:
+### East view:
 
 <img src="completo est.jpg" width=800/>
 
-###West view:
+### West view:
 
 <img src="completo ovest.jpg" width=800/>
 
